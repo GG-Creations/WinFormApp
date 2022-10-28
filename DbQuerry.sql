@@ -23,8 +23,6 @@ VALUES
 ('Panagiotis')
 GO
 
-SELECT * FROM Students
-
 INSERT INTO Grades
 VALUES
 (1, 1, 'Mathimatika', 11.99),
@@ -34,5 +32,3 @@ VALUES
 (3, 1, 'Mathimatika', 05.88),
 (3, 2, 'Fysiki', 03.47 )
 GO
-
-SELECT * FROM Grades
